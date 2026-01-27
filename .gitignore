@@ -1,0 +1,23 @@
+# Python and IDE
+__pycache__/
+*.py[cod]
+*$py.class
+.vscode/
+
+# Backup and temporary application files
+* - Copy.py
+*_old.py
+*_bad.py
+*Temp.py
+*_1201.py
+
+# Test data files
+*.sas
+test_*
+
+# Environment files (use requirements.txt instead)
+environment.yml
+
+# Miscellaneous
+import *.py
+pages/
