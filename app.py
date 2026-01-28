@@ -1,6 +1,6 @@
 # app.py - Core of the SAS QA Translation Framework
 import streamlit as st
-import sas_lexer  # Your new, custom-installed tokenizer
+import parse_functions  # Your new, custom-installed tokenizer
 import pandas as pd  # For eventual validation reports
 import hashlib  # For secure password hashing
 # import json  # To handle blueprint serialization
